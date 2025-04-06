@@ -1,7 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Nunito+Sans:wght@400;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-body {
-	overflow-x: hidden;
+@layer base {
+  html {
+    @apply bg-bcb-neutral text-bcb-teal;
+  }
+  
+  body {
+    @apply font-sans overflow-x-hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-sans font-bold text-bcb-teal;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-bcb-aqua text-bcb-teal font-semibold px-4 py-2 rounded hover:bg-opacity-90 transition-colors;
+  }
+
+  .btn-secondary {
+    @apply bg-bcb-sand text-bcb-teal font-semibold px-4 py-2 rounded hover:bg-opacity-90 transition-colors;
+  }
+
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
 }

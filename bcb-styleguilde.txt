@@ -1,0 +1,65 @@
+Okay, here is the complete, updated website style guide for Beach Coast Beads, incorporating your official logo and its corresponding color palette.
+________________________________________
+Beach Coast Beads: Complete Website Style Guide
+(Last Updated: March 28, 2025)
+1. Introduction & Brand Personality:
+●	Brand: Beach Coast Beads
+●	Business: eCommerce startup selling handcrafted bead trinkets and jewelry.
+●	Founder's Values: Love for the beach, design/crafting, Jesus, positivity, authenticity, joy.
+●	Target Audience: Teens and young adults (savvy with Etsy, Mercari, TikTok).
+●	Keywords: Sunny, Salty, Creative, Joyful, Handcrafted, Authentic, Coastal, Positive, Uplifting, Natural.
+●	Core Message: Bringing the joy and beauty of the coast to you through unique, handcrafted bead creations, made with love and positive intentions.
+●	Overall Vibe: Bright, Breezy, Youthful, Authentic, and Uplifting. Inspired by sun-kissed beaches, the texture of found treasures, handcrafted details, and positive energy.
+2. Logo:
+●	Official Logo: The primary logo features a stylized seashell icon with a vertical gradient (aqua blue top to sandy beige bottom) and a slightly darker tan outline. The brand name "BEACH COAST BEADS" is written below the icon in a distinctive, all-caps, textured/stencil sans-serif font in a deep teal/navy color.
+○	(Image: Reference the Beach Coast Beads.jpg logo file)
+●	Usage Guidelines:
+○	Primary Logo: Use the full version (icon + text) whenever possible.
+○	Icon Only: The seashell icon can be used alone for favicons, social media profiles, or as a subtle branding element where space is limited.
+○	Color Variations: Use the full-color version primarily. Provide monochrome versions (all Deep Teal/Navy #1F4959 or all White #FFFFFF) for use on conflicting backgrounds or specific applications (e.g., single-color printing).
+○	Clear Space: Maintain adequate clear space around the logo, free from other text or graphics. A good rule of thumb is the height of the letter "B" in the logo text on all sides.
+○	Minimum Size: Ensure the logo text remains legible at smaller sizes. Test for readability on various screen sizes. Avoid scaling below a point where the text becomes unclear.
+○	Do Not: Stretch, distort, recolor (outside of approved variations), or alter the logo elements.
+3. Color Palette:
+●	Inspiration: Directly drawn from the official Beach Coast Beads logo, reflecting the transition from sea to sand, and grounded by a clear, deep text color and a warm neutral background.
+●	Primary Colors (Derived from Logo):
+○	Gradient Aqua: #88D8E4 (Approx.) - Use for highlights, accents, potentially buttons or iconography.
+○	Gradient Sand: #FDE3A7 (Approx.) - Use for complementary accents, backgrounds for sections, adding warmth.
+○	Deep Teal/Navy: #1F4959 (Approx.) - Primary text color, headings, important links, structural lines/borders.
+●	Secondary Colors (Derived from Logo & Support):
+○	Shell Outline Tan: #BF9E6E (Approx.) - Use for subtle borders, secondary text, or details where less contrast is needed.
+○	Warm Neutral Background: #F8F4E9 (Approx.) - Ideal for the main website background, providing a soft, natural canvas.
+○	Crisp White: #FFFFFF - Essential for negative space, text on dark backgrounds, ensuring clarity.
+●	Accent Color (Optional):
+○	Soft Coral: #FFCDB2 (Use sparingly for a warm pop if needed, e.g., specific call-to-action buttons, sale highlights).
+4. Typography:
+●	Goal: To balance the unique character of the logo's font with excellent readability for website content.
+●	Primary Heading Font (H1, Logo Font): The specific textured/stencil sans-serif font used in the logo.
+○	Why: Reinforces brand identity prominently. Use for main page titles and potentially H1 headings where appropriate. Ensure legibility is maintained.
+●	Secondary Headings (H2, H3) & Body Text Font: Poppins or Nunito Sans (Regular weight)
+○	Why: Clean, friendly, highly readable sans-serif fonts suitable for web and mobile. Use for paragraph text, product descriptions, navigation menus, and subheadings. Set in the Deep Teal/Navy (#1F4959) color for optimal contrast on the Warm Neutral Background (#F8F4E9).
+●	Font Hierarchy: Use size, weight (e.g., Regular, Medium, Bold variants of Poppins/Nunito Sans), and color to create a clear visual hierarchy between headings, subheadings, and body text.
+5. Imagery & Photography:
+●	Style: Bright, natural light, authentic, warm, lifestyle-focused. Should feel airy and genuine.
+●	Subject Matter:
+○	High-quality photos of the jewelry showing detail, texture, and craftsmanship.
+○	Lifestyle shots: Jewelry being worn (close-ups on hands, wrists, necks), ideally in natural settings (beach, sunny outdoor spots) that complement the brand colors.
+○	Flat lays on natural textures (sand, light wood, linen) incorporating the brand's color palette.
+○	Subtle beach elements: Gentle waves, sand textures, shells, soft-focus coastal backgrounds.
+○	Behind-the-scenes glimpses (optional): Hands crafting beads, workspace details to emphasize the handmade aspect authentically.
+●	Avoid: Dark/moody photos, overly corporate or staged looks, cluttered compositions, images that clash with the defined color palette.
+6. Website Layout & UI Elements:
+●	Layout: Clean, intuitive navigation, user-friendly. Generous use of the Warm Neutral Background (#F8F4E9) and white space. Mobile-first design is critical. Grid layouts for product galleries are recommended.
+●	Buttons: Use primary colors for calls-to-action (e.g., background in Gradient Aqua #88D8E4 or Gradient Sand #FDE3A7, text in Deep Teal/Navy #1F4959 or White #FFFFFF depending on contrast). Consider slightly rounded corners to complement the shell icon. Hover states should provide clear visual feedback (e.g., slight darkening/lightening or color change).
+●	Icons: Use simple, clean line icons consistent with the overall aesthetic. Use colors like Deep Teal/Navy (#1F4959) or Shell Outline Tan (#BF9E6E).
+●	Product Pages: Clear structure with multiple high-quality images, detailed descriptions (materials, inspiration), visible price, and prominent "Add to Cart" button. Consider customer reviews and related product suggestions.
+7. Tone of Voice:
+●	Style: Warm, friendly, positive, enthusiastic, genuine, and authentic. Like sharing your passion with a friend.
+●	Keywords to use: Handcrafted, unique, ocean-inspired, sun-kissed, beachy, joyful, made with love, coastal treasure, designed for you, positive vibes.
+●	Approach: Tell the story behind the pieces. Share the inspiration (beach, faith, joy). Be personal and connect with the audience's desire for unique, meaningful items. Use encouraging and uplifting language. Highlight the handmade nature and the care put into each creation.
+________________________________________
+This comprehensive guide should provide a clear direction for maintaining the Beach Coast Beads brand identity consistently across your website and other materials. Remember that style guides can evolve, but this provides a strong foundation based on your vision and chosen logo.
+
+
+
+
