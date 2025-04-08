@@ -2,34 +2,20 @@ import { invariant } from "ts-invariant";
 import { RootWrapper } from "./pageWrapper";
 
 export const metadata = {
-	title: "Checkout · Saleor Storefront example",
+	title: "Checkout · BCB Storefront",
 };
 
-export default function CheckoutPage({
-	searchParams,
-}: {
-	searchParams: { checkout?: string; order?: string };
-}) {
+export default function CheckoutPage() {
 	invariant(process.env.NEXT_PUBLIC_SALEOR_API_URL, "Missing NEXT_PUBLIC_SALEOR_API_URL env variable");
 
-	if (!searchParams.checkout && !searchParams.order) {
-		return null;
-	}
-
 	return (
-		<div className="min-h-dvh bg-white">
-			<section className="mx-auto flex min-h-dvh max-w-7xl flex-col p-8">
-				<div className="flex items-center font-bold">
-					<a aria-label="homepage" href="/">
-						ACME
-					</a>
+		<div className="min-h-screen bg-gray-50">
+			<div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+				<div className="flex items-center justify-between border-b border-gray-200 pb-4 pt-24">
+					<h1 className="text-4xl font-bold tracking-tight text-gray-900">BCB</h1>
 				</div>
-				<h1 className="mt-8 text-3xl font-bold text-neutral-900">Checkout</h1>
-
-				<section className="mb-12 mt-6 flex-1">
-					<RootWrapper saleorApiUrl={process.env.NEXT_PUBLIC_SALEOR_API_URL} />
-				</section>
-			</section>
+				<RootWrapper saleorApiUrl={process.env.NEXT_PUBLIC_SALEOR_API_URL} />
+			</div>
 		</div>
 	);
 }
