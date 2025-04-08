@@ -6,7 +6,7 @@ import { formatMoney, getHrefForVariant } from "@/lib/utils";
 import { LinkWithChannel } from "@/ui/atoms/LinkWithChannel";
 
 export const metadata = {
-	title: "Shopping Cart · Saleor Storefront example",
+	title: "Shopping Cart · BCB Storefront",
 };
 
 export default async function Page({ params }: { params: { channel: string } }) {
@@ -19,7 +19,7 @@ export default async function Page({ params }: { params: { channel: string } }) 
 			<section className="mx-auto max-w-7xl p-8">
 				<h1 className="mt-8 text-3xl font-bold text-neutral-900">Your Shopping Cart is empty</h1>
 				<p className="my-12 text-sm text-neutral-500">
-					Looks like you haven’t added any items to the cart yet.
+					Looks like you haven't added any items to the cart yet.
 				</p>
 				<LinkWithChannel
 					href="/products"
